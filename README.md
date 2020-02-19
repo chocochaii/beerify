@@ -15,7 +15,7 @@ You will also see any lint errors in the console.
 ### `npm run gql`
 
 Runs the GraphQL server.<br />
-Open [http://localhost:3001](http://localhost:3001) to use the playground.
+Open [http://localhost:3001](http://localhost:3001) to discover the playground.
 
 ### `npm test`
 
